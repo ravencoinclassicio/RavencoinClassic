@@ -1,30 +1,29 @@
 Raven Core integration/staging tree
 =====================================
 
-https://ravencoin.org
+https://ravencoinclassic.io
 
-What is Ravencoin?
+What is RavencoinClassic?
 ----------------
 
-Ravencoin is an experimental digital currency that enables instant payments to
+RavencoinClassic is an experimental digital currency that enables instant payments to
 anyone, anywhere in the world. Ravencoin uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
 out collectively by the network. 
 
 
-
 License
 -------
 
-Raven Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+RavenClassic Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
 
 Development Process
 -------------------
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/RavenProject/Ravencoin/tags) are created
-regularly to indicate new official, stable release versions of Raven Core.
+completely stable. [Tags](https://github.com/RavencoinClassicIO/RavencoinClassic/tags) are created
+regularly to indicate new official, stable release versions of RavenClassic Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -62,13 +61,13 @@ to add a test plan to the pull request description if testing the changes is
 not straightforward.
 
 
-About Ravencoin
+About RavencoinClassic
 ----------------
 A digital peer to peer network for the facilitation of asset transfer.
 
 
 
-In the fictional world of Westeros, ravens are used as messengers who carry statements of truth. Ravencoin is a use case specific blockchain designed to carry statements of truth about who owns what assets. 
+In the fictional world of Westeros, ravens are used as messengers who carry statements of truth. RavencoinClassic is a use case specific blockchain designed to carry statements of truth about who owns what assets. 
 
 
 
